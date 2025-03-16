@@ -1,5 +1,4 @@
-# Marek Scibiorek
-![Profile Photo](https://via.placeholder.com/150)
+# Krzysztof Marek Scibiorek
 
 ## IT Professional
 
