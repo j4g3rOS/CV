@@ -69,6 +69,8 @@ I'm currently expanding my knowledge in:
 
 <div align="center">
   
+[![Email](https://img.shields.io/badge/Email-krzysztof.scibiorek@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:krzysztof.scibiorek@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+447440263511-green?style=for-the-badge&logo=phone)](tel:+447440263511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
   
 </div>
