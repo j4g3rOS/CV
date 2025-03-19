@@ -17,7 +17,7 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 
 ## 🔧 Technical Skills
 
-- **Cloud Technologies:** Azure/Entra, Microsoft 365, Google Cloud, AWS
+- **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS
 - **Device Management:** MS Intune, JAMF, Autopilot, Group Policies
 - **Security:** Microsoft Security Center, Conditional Access, Endpoint Security
 - **Systems:** Windows, macOS, Linux, iOS, Android 
@@ -28,20 +28,18 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 
 ### IT Consultant (Contract)
 **Value Retail – Bicester Village** | 2024/11 - 2025/02
-- Assessment and optimization of Intune Autopilot deployment for Windows and iOS
-- 2nd line support and troubleshooting
+- Assessment of Intune Autopilot deployment for Windows devices 
+- 2nd line support
 
 ### IT Engineer (2nd and 3rd line)
 **Astroscale Holdings – Harwell, Didcot** | 2022/01 - 2024/11
 - Managed Intune/Entra ecosystem including Conditional Access Policies and security solutions
-- Implemented standardization for workstation procurement and deployment
-- Led cybersecurity hardening initiatives across Azure policies and endpoints
+- Implemented standardization for workstations procurement and deployment process
+- Led cybersecurity hardening initiatives across Azure policies for endpoints
 - Supported AWS infrastructure and services
 
 ### Previous Roles
 - **Senior IT Support Analyst** at Oxford University Hospitals
-- **IT Technician** at Gigaclear
-- **ICT Technician** at Southern Central Ambulance Centre
 - **Senior IT Officer** at University of Oxford
 
 ## 🚀 Projects & Achievements
