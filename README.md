@@ -3,7 +3,7 @@
 
 ## IT Professional
 
-Enthusiastic IT Professional with over twenty years of experience in Computer Science. Well-educated and deeply passionate about my work, consistently researching new skills to enhance and implement the latest solutions that address business needs. I prioritize business requirements balanced with user needs while striving to find the best possible solutions that balance security and usability.
+Enthusiastic IT and deeply passionate about my work, consistently researching new skills to enhance and implement the latest solutions that address business needs. I prioritize business requirements balanced with user needs while striving to find the best possible solutions that balance security and usability.
 
 <div align="center">
   
