@@ -46,7 +46,7 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 
 ## 🚀 Projects & Achievements
 
-- Windows 10/11 migration across multiple organizations
+- Windows migrations across multiple organizations
 - Implementation of hardened security policies for endpoints
 - Created standardized deployment methodologies for various platforms
 - Developed and documented Standard Operational Procedures for enterprise environments
@@ -56,7 +56,7 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 
 I'm currently expanding my knowledge in:
 
-- Advanced Azure/Entra integrations with on-premise systems
+- Advanced Azure / Entra integrations with on-premise systems
 - Zero Trust security implementations
 - DevOps practices for IT infrastructure
 - Automation of IT processes through modern scripting techniques
@@ -65,7 +65,7 @@ I'm currently expanding my knowledge in:
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=j4g3rOS&show_icons=true&theme=dark" alt="GitHub Stats">
 </details>
 
 ## 📫 Contact Me
