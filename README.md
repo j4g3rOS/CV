@@ -3,7 +3,7 @@
 
 ## IT Professional
 
-Enthusiastic IT and deeply passionate about my work, consistently researching new skills to enhance and implement the latest solutions that address business needs. I prioritize business requirements balanced with user needs while striving to find the best possible solutions that balance security and usability.
+I am very enthusiastic and deeply passionate about my work, consistently researching new skills to enhance and implement the latest solutions that address business needs. I do prioritize business requirements balanced with user needs while striving to find the best possible solutions that balances security and usability.
 
 <div align="center">
   
