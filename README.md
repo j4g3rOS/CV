@@ -45,6 +45,8 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 ## 🚀 Projects & Achievements
 
 - Windows migrations across multiple organizations
+- Debloating , security policies for managed workstations
+- Packaging applications and solutions for enterprise 
 - Implementation of hardened security policies for endpoints
 - Created standardized deployment methodologies for various platforms
 - Developed and documented Standard Operational Procedures for enterprise environments
