@@ -55,10 +55,12 @@ Enthusiastic IT Professional with over twenty years of experience in Computer Sc
 ## 🌱 Current Focus
 
 I'm currently expanding my knowledge in:
+
 - Advanced Azure/Entra integrations with on-premise systems
 - Zero Trust security implementations
 - DevOps practices for IT infrastructure
 - Automation of IT processes through modern scripting techniques
+- Implementation of Security and Privacy aspects for Enterprise
 
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
