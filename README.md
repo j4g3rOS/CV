@@ -20,8 +20,8 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 - **Cloud Technologies:** Azure/Entra, Microsoft 365, Google Cloud, AWS
 - **Device Management:** MS Intune, JAMF, Autopilot, Group Policies
 - **Security:** Microsoft Security Center, Conditional Access, Endpoint Security
-- **Systems:** Windows, macOS, Linux, iOS, Android **
-- **Systems:** Window Server 2008 -> 2022 **
+- **Systems:** Windows, macOS, Linux, iOS, Android 
+- **Systems:** Window Server 2008 -> 2022 
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4
 
 ## 💼 Professional Experience
