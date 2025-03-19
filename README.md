@@ -33,9 +33,9 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 
 ### IT Engineer (2nd and 3rd line)
 **Astroscale Holdings – Harwell, Didcot** | 2022/01 - 2024/11
-- Managed Intune/Entra ecosystem including Conditional Access Policies and security solutions
+- Co-Managed Intune/Entra ecosystem including Conditional Access Policies and security solutions
 - Implemented standardization for workstations procurement and deployment process
-- Led cybersecurity hardening initiatives across Azure policies for endpoints
+- Implemented Cybersecurity hardening initiatives across Azure policies for endpoints 
 - Supported AWS infrastructure and services
 
 ### Previous Roles
