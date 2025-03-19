@@ -1,5 +1,7 @@
 # Krzysztof Marek Scibiorek
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ## IT Professional
 
 Enthusiastic IT Professional with over twenty years of experience in Computer Science. Well-educated and deeply passionate about my work, consistently researching new skills to enhance and implement the latest solutions that address business needs. I prioritize business requirements balanced with user needs while striving to find the best possible solutions that balance security and usability.
