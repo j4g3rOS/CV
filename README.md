@@ -1,6 +1,6 @@
 # Krzysztof Marek Scibiorek
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzysztof-scibiorek-98743775/)
 
 ## IT Professional
 
