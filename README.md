@@ -23,6 +23,7 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 - **Systems:** Windows, macOS, Linux, iOS, Android 
 - **Systems:** Window Server 2008 -> 2022 
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4
+- **Scipting:** Bash , ZSH, Powershell
 
 ## 💼 Professional Experience
 
