@@ -27,8 +27,8 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 ## 💼 Professional Experience
 
 ### IT Consultant (Contract)
-**Value Retail – Bicester Village** | 2024/11 - 2025/02
-- Assessment of Intune Autopilot deployment for Windows devices 
+**Value Retail – Bicester Village** | 2024/12 - 2025/03
+- Assessment of Intune Autopilot deployment for Windows , iOS, MacOS 
 - 2nd line support
 
 ### IT Engineer (2nd and 3rd line)
