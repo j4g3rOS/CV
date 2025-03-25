@@ -78,11 +78,10 @@ I'm currently expanding my knowledge in:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-scibiorek-98743775/)
   
 <p align="center">
-  <a href="duck://player/ANwtzwfSbhc" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Click to View Video</a>
+  <a href="duck://player/ANwtzwfSbhc" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Watch Video Now</a>
 </p>
 
 <p align="center">
   *Located in Oxford, Oxfordshire, OX4*<br>
   *Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.*
 </p>
-
