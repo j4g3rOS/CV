@@ -1,4 +1,4 @@
-# Krzysztof Marek Scibiorek
+this i# Krzysztof Marek Scibiorek
 
 
 ## IT Professional
@@ -77,10 +77,14 @@ I'm currently expanding my knowledge in:
 [![Phone](https://img.shields.io/badge/Phone-+447440263511-green?style=for-the-badge&logo=phone)](tel:+447440263511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-scibiorek-98743775/)
   
+### Watch Video Now
 <p align="center">
-  <a href="duck://player/ANwtzwfSbhc" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Watch Video Now</a>
+  <div style="background-color: #007bff; color: white; padding: 10px; text-align: center; width: 100%; max-width: 800px; border-radius: 5px;">
+    <a href="duck://player/ANwtzwfSbhc" style="color: white; text-decoration: none;">Click Here to Watch</a>
+  </div>
 </p>
 
+### About Me
 <p align="center">
   *Located in Oxford, Oxfordshire, OX4*<br>
   *Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.*
