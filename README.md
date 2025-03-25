@@ -85,6 +85,8 @@ I'm currently expanding my knowledge in:
 
 [Visit Player](duck://player/ANwtzwfSbhc)
 
+<a href="duck://player/ANwtzwfSbhc" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Visit Player</a>
+
 <p align="center">
   *Located in Oxford, Oxfordshire, OX4*<br>
   *Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.*
