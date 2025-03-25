@@ -80,7 +80,7 @@ I'm currently expanding my knowledge in:
 ### Watch Video Now
 <p align="center">
   <div style="background-color: #007bff; color: white; padding: 10px; text-align: center; width: 100%; max-width: 800px; border-radius: 5px;">
-    <a href="duck://player/ANwtzwfSbhc" style="color: white; text-decoration: none;">Click Here to Watch</a>
+    <a href="duck://player/ANwtzwfSbhc" target="_blank" style="color: white; text-decoration: none;">Click Here to Watch</a>
   </div>
 </p>
 
@@ -89,3 +89,4 @@ I'm currently expanding my knowledge in:
   *Located in Oxford, Oxfordshire, OX4*<br>
   *Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.*
 </p>
+
