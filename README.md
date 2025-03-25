@@ -82,6 +82,13 @@ I'm currently expanding my knowledge in:
 ---
 
 <p align="center">
-  <i>Located in Oxford, Oxfordshire, OX4</i><br>
+
+[Visit Player](duck://player/ANwtzwfSbhc)
+
+*Located in Oxford, Oxfordshire, OX4*
+
+*Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.*
+
+  
   <i>Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.</i>
 </p>
