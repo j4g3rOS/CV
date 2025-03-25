@@ -77,15 +77,9 @@ I'm currently expanding my knowledge in:
 [![Phone](https://img.shields.io/badge/Phone-+447440263511-green?style=for-the-badge&logo=phone)](tel:+447440263511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-scibiorek-98743775/)
   
-</div>
-
----
-
 <p align="center">
-
-[Visit Player](duck://player/ANwtzwfSbhc)
-
-<a href="duck://player/ANwtzwfSbhc" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Visit Player</a>
+  <a href="duck://player/ANwtzwfSbhc" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Click to View Video</a>
+</p>
 
 <p align="center">
   *Located in Oxford, Oxfordshire, OX4*<br>
