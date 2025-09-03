@@ -62,6 +62,9 @@ I'm currently expanding my knowledge in:
 - DevOps practices for IT infrastructure
 - Automation of IT processes through modern scripting techniques
 - Implementation of Security and Privacy aspects for Enterprise
+- On Premises Workspace One, hands on
+- "AI" implementations for enterprise
+- Migration techninques for legacy infrastuctures
 
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
