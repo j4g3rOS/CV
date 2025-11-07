@@ -1,4 +1,4 @@
-this i# Krzysztof Marek Scibiorek
+Krzysztof Marek Scibiorek
 
 
 ## IT Professional
