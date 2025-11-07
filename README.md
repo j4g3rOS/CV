@@ -28,7 +28,7 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 ## 💼 Professional Experience
 
 ### IT Consultant (Contract)
-**Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
+Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 - MDM Managemnent - Intune, Jamf, Workspace One
 - 2nd line Support
 - Suporting process of Intune migration
