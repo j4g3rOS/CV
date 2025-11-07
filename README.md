@@ -18,7 +18,7 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 ## 🔧 Technical Skills
 
 - **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS
-- **Device Management:** MS Intune, JAMF, Autopilot, Group Policies
+- **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policiesm, App Packaging
 - **Security:** Microsoft Security Center, Conditional Access, Endpoint Security
 - **Systems:** Windows, macOS, Linux, iOS, Android 
 - **Systems:** Window Server 2008 -> 2022 
@@ -26,6 +26,15 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 - **Scipting:** Bash , ZSH, Powershell
 
 ## 💼 Professional Experience
+
+### IT Consultant (Contract)
+**Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
+- MDM Managemnent - Intune, Jamf, Workspace One
+- 2nd line Support
+- Suporting process of Intune migration
+- Apps packaging, polcies deployment, change management
+- Powershell Scripting, Microsoft Graph Powershell CLI
+- Technical Documentation
 
 ### IT Consultant (Contract)
 **Value Retail – Bicester Village** | 2024/12 - 2025/03
