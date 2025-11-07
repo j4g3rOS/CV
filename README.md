@@ -18,7 +18,7 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 ## 🔧 Technical Skills
 
 - **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS
-- **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policiesm, App Packaging
+- **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policies, Apps Packaging
 - **Security:** Microsoft Security Center, Conditional Access, Endpoint Security
 - **Systems:** Windows, macOS, Linux, iOS, Android 
 - **Systems:** Window Server 2008 -> 2022 
