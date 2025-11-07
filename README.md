@@ -19,9 +19,9 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 
 - **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS
 - **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policies, Apps Packaging
-- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security
+- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike 
 - **Systems:** Windows, macOS, Linux, iOS, Android 
-- **Systems:** Window Server 2008 -> 2022 
+- **Systems:** Window Server 2008 -> 2024, Mac OS Server, Ubuntu Server
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4
 - **Scipting:** Bash , ZSH, Powershell
 
@@ -29,9 +29,9 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 
 ### IT Consultant (Contract)
 Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
-- MDM Managemnent - Intune, Jamf, Workspace One
-- 2nd line Support
-- Suporting process of Intune migration
+- MDM - Intune, Jamf, Workspace One
+- 2nd/3rd line Support
+- Intune migration
 - Apps packaging, polcies deployment, change management
 - Powershell Scripting, Microsoft Graph Powershell CLI
 - Technical Documentation
