@@ -3,7 +3,7 @@ Krzysztof Marek Scibiorek
 
 ## IT Professional
 
-I am very enthusiastic and deeply passionate about my work, consistently researching new skills to enhance and implement the latest solutions that address business needs. I do prioritize business requirements balanced with user needs while striving to find the best possible solutions that balances security and usability.
+I enable organisations to leverage technology for operational optimisation, providing strategic support to advance their IT infrastructure. My focus is on enhancing system efficiency and reliability, ensuring that all solutions are fully aligned with overarching business objectives.
 
 <div align="center">
   
@@ -17,9 +17,9 @@ I am very enthusiastic and deeply passionate about my work, consistently researc
 
 ## 🔧 Technical Skills
 
-- **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS
+- **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab
 - **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policies, Apps Packaging
-- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike 
+- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Sophos Cloud
 - **Systems:** Windows, macOS, Linux, iOS, Android 
 - **Systems:** Window Server 2008 -> 2024, Mac OS Server, Ubuntu Server
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4
@@ -32,9 +32,10 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 - MDM - Intune, Jamf, Workspace One
 - 2nd/3rd line Support
 - Intune migration
-- Apps packaging, polcies deployment, change management
+- Apps packaging, polcies deployment, autopilot, change management
 - Powershell Scripting, Microsoft Graph Powershell CLI
 - Technical Documentation
+- Process Documentation
 
 ### IT Consultant (Contract)
 **Value Retail – Bicester Village** | 2024/12 - 2025/03
