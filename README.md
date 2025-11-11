@@ -17,13 +17,16 @@ I enable organisations to leverage technology for operational optimisation, prov
 
 ## 🔧 Technical Skills
 
-- **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab
+- **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab, Jira, Confluence
 - **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policies, Apps Packaging
 - **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Sophos Cloud
 - **Systems:** Windows, macOS, Linux, iOS, Android 
 - **Systems:** Window Server 2008 -> 2024, Mac OS Server, Ubuntu Server
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4
 - **Scipting:** Bash , ZSH, Powershell
+- **Documentation:** Technical Documetation, Process Documentation
+- **Networking:** LAN, WAN, Firewalls, Routers
+
 
 ## 💼 Professional Experience
 
@@ -52,6 +55,8 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 ### Previous Roles
 - **Senior IT Support Analyst** at Oxford University Hospitals
 - **Senior IT Officer** at University of Oxford
+- **IT & Facility Manager at Oxofrd International College
+- **IT Consultant / Contractor roles working for public / private sector
 
 ## 🚀 Projects & Achievements
 
