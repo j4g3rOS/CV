@@ -48,7 +48,7 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 ### IT Engineer (2nd and 3rd line)
 **Astroscale Holdings – Harwell, Didcot** | 2022/01 - 2024/11
 - Managed Intune/Entra ecosystem including Conditional Access Policies and security solutions
-- Implemented standardization for workstations procurement and deployment process
+- Implemented standardization for workstations and led procurement and deployment process
 - Implemented Cybersecurity hardening initiatives across Azure policies for endpoints 
 - Supported AWS infrastructure and services
 
@@ -72,12 +72,12 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 I'm currently expanding my knowledge in:
 
-- Advanced Azure / Entra integrations with on-premise systems
+- Zero touch methodology for MDM 
+- Automation using scrpting techniques, terraform
+- LLM models for enterprise
 - Zero Trust security implementations
 - DevOps practices for IT infrastructure
-- Automation of IT processes through modern scripting techniques
-- Implementation of Security and Privacy aspects for Enterprise
-- Migration techninques for legacy infrastuctures
+
 
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
