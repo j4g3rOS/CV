@@ -27,6 +27,8 @@ I enable organisations to leverage technology for operational optimisation, prov
 - **Documentation:** Technical Documetation, Process Documentation
 - **Networking:** LAN, WAN, Firewalls, Routers
 - **Ticketing Systems:** Service Now and others
+- **CAD systems:** Basic knowledge and hands on
+- **IT Procurement / Vendor relations:** Been involved in many projects
 
 
 ## 💼 Professional Experience
