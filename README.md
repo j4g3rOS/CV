@@ -26,6 +26,7 @@ I enable organisations to leverage technology for operational optimisation, prov
 - **Scipting:** Bash , ZSH, Powershell
 - **Documentation:** Technical Documetation, Process Documentation
 - **Networking:** LAN, WAN, Firewalls, Routers
+- **Ticketing Systems:** Service Now and others
 
 
 ## 💼 Professional Experience
