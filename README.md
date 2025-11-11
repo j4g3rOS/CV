@@ -54,7 +54,7 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 ### Previous Roles
 - **Senior IT Support Analyst** at Oxford University Hospitals
-- **Senior IT Officer** at University of Oxford
+- **Senior IT Officer at University of Oxford
 - **IT & Facility Manager at Oxofrd International College
 - **IT Consultant / Contractor roles working for public / private sector
 
