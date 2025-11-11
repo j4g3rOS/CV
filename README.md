@@ -60,12 +60,12 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 ## 🚀 Projects & Achievements
 
+- MDM migrations
 - Windows migrations across multiple organizations
-- Debloating , security policies for managed workstations
 - Packaging applications and solutions for enterprise 
-- Implementation of hardened security policies for endpoints
-- Created standardized deployment methodologies for various platforms
-- Developed and documented Standard Operational Procedures for enterprise environments
+- Implementation of hardened security policies and methodologies for endpoints
+- Standardized deployment of methodologies for various platforms
+- Development of Standard Operational Procedures for enterprise environments
 - Led procurement initiatives and vendor management for hardware/software solutions
 
 ## 🌱 Current Focus
@@ -77,8 +77,6 @@ I'm currently expanding my knowledge in:
 - DevOps practices for IT infrastructure
 - Automation of IT processes through modern scripting techniques
 - Implementation of Security and Privacy aspects for Enterprise
-- On Premises Workspace One, hands on
-- "AI" implementations for enterprise
 - Migration techninques for legacy infrastuctures
 
 <details>
