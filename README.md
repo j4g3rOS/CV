@@ -53,7 +53,7 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 - Supported AWS infrastructure and services
 
 ### Previous Roles
-- Senior IT Support Analyst** at Oxford University Hospitals
+- Senior IT Support Analyst at Oxford University Hospitals
 - Senior IT Officer at University of Oxford
 - IT & Facility Manager at Oxofrd International College
 - IT Consultant / Contractor roles working for public / private sector
@@ -72,7 +72,7 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 I'm currently expanding my knowledge in:
 
-- Zero touch methodology for MDM 
+- Zero touch methodologies for MDMs
 - Automation using scrpting techniques, terraform
 - LLM models for enterprise
 - Zero Trust security implementations
