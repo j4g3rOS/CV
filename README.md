@@ -24,7 +24,7 @@ I enable organisations to leverage technology for operational optimisation, prov
 - **Systems:** Window Server 2008 -> 2024, Mac OS Server, Ubuntu Server
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4, NIST
 - **Scipting:** Bash , ZSH, Powershell
-- **Documentation:** Technical Documetation, Process Documentation
+- **Documentation:** Technical Documetation, Process Documentation, Development of Standarization Methods for Enterprise
 - **Networking:** LAN, WAN, Firewalls, Routers
 - **Ticketing Systems:** Service Now and others
 - **CAD systems:** Basic knowledge and hands on
