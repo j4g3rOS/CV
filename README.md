@@ -26,12 +26,13 @@ My focus is on enhancing system efficiency and reliability, ensuring that all so
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4, NIST
 - **Scipting:** Bash , ZSH, Powershell
 - **Documentation:** Technical Documetation, Process Documentation, Development of Standarization Methods for Enterprise
-- **Networking:** LAN, WAN, Firewalls, Routers
+- **Networking:** LAN, WAN, Firewalls, Routers, Millimiter Wave Links, MicroWave Links
 - **Ticketing Systems:** Service Now and others
-- **CAD systems:** Basic knowledge and hands on
+- **CAD systems:** Basic knowledge and hands on Spice, MCAD
 - **IT Procurement / Vendor relations:** Been involved in many projects
 - **Programming languages:** Assembler, Turbo Pascal, C++, Amos
-- **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building networking equipment 
+- **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building and tesing networking equipment
+- **Cybersecutity:** Familiarity with Pentesting methods using well known debian based platforms
 
 
 ## 💼 Professional Experience
