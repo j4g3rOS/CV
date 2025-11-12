@@ -29,6 +29,7 @@ I enable organisations to leverage technology for operational optimisation, prov
 - **Ticketing Systems:** Service Now and others
 - **CAD systems:** Basic knowledge and hands on
 - **IT Procurement / Vendor relations:** Been involved in many projects
+- **Programming languages:** Assembler, Turbo Pascal, C++, Amos
 
 
 ## 💼 Professional Experience
@@ -63,13 +64,14 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 ## 🚀 Projects & Achievements
 
+- Reorganization of Service Desk and creation of the methodologies, policies, sop's in enviroments with lack of existing technical documentation 
 - MDM migrations
 - Windows migrations across multiple organizations
 - Packaging applications and solutions for enterprise 
 - Implementation of hardened security policies and methodologies for endpoints
 - Standardized deployment of methodologies for various platforms
-- Development of Standard Operational Procedures for enterprise environments
-- Led procurement initiatives and vendor management for hardware/software solutions
+- Development of Standard Operational Procedures for enterprise 
+- Led procurement initiatives and vendor relationship / management for hardware/software solutions
 
 ## 🌱 Current Focus
 
