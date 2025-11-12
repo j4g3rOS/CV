@@ -67,7 +67,7 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 ## 🚀 Projects & Achievements
 
-- Standarisatin of hardware / software solutions for Enterprise 
+- Standarisation of hardware / software solutions for Enterprise 
 - Reorganization of Service Desk and creation of the methodologies, policies, sop's in enviroments with lack of existing technical documentation 
 - MDM migrations
 - Windows migrations across multiple organizations
