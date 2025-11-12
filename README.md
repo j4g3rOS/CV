@@ -31,6 +31,7 @@ My focus is on enhancing system efficiency and reliability, ensuring that all so
 - **CAD systems:** Basic knowledge and hands on
 - **IT Procurement / Vendor relations:** Been involved in many projects
 - **Programming languages:** Assembler, Turbo Pascal, C++, Amos
+- **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building networking equipment 
 
 
 ## 💼 Professional Experience
