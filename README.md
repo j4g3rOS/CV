@@ -34,6 +34,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building and tesing networking equipment
 - **Cybersecutity:** Familiarity with Pentesting methods using well known debian based platforms
 - **Project Management:** MOSCOW Framework, Monday, Microst Project, Trello, Jirra
+- **Migrations:** MDMs, Windows
 
 
 ## 💼 Professional Experience
