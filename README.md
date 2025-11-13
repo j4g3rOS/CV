@@ -32,7 +32,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **IT Procurement / Vendor relations:** Been involved in many projects
 - **Programming languages:** Assembler, Turbo Pascal, C++, Amos
 - **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building and tesing networking equipment
-- **Cybersecutity:** Familiarity with Pentesting methods using well known debian based platforms
+- **Cybersecutity:** Demonstrated familiarity with penetration testing methodologies utilizing well-known Debian-based platforms and industry-standard tools such as Parrot OS Linux, Metasploit, Wardriving
 - **Cybersecutity accreditations:** Enabled successful ISO 27001 certification through cross-functional teamwork, 
 - **Project Management:** MOSCOW Framework, Monday, Microst Project, Trello, Jirra
 - **Migrations:** MDMs, Windows
