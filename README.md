@@ -34,7 +34,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building and tesing networking equipment
 - **Cybersecutity:** Demonstrated familiarity with penetration testing methodologies utilizing well-known Debian-based platforms and industry-standard tools such as Parrot OS Linux, Metasploit, Wardriving
 - **Cybersecutity accreditations:** Enabled successful ISO 27001 certification through cross-functional teamwork, 
-- **Project Management:** MOSCOW Framework, Monday, Microst Project, Trello, Jirra
+- **Project Management:** Streamlined MOSCOW Framework, Monday, Microst Project, Trello, Jirra
 - **Migrations:** Experience migrating devices with Microsoft Intune, Workspace One, Legacy Systems
 
 
