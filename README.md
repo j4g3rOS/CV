@@ -57,7 +57,8 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 **Astroscale Holdings – Harwell, Didcot** | 2022/01 - 2024/11
 - Managed Intune/Entra ecosystem including Conditional Access Policies and security solutions
 - Implemented standardization for workstations and led procurement and deployment process
-- Implemented Cybersecurity hardening initiatives across Azure policies for endpoints 
+- Implemented Cybersecurity hardening initiatives across Azure policies for endpoints
+- Provided support for the company’s mission objectives and cross-functional teams throughout all stages of organizational growth
 - Supported AWS infrastructure and services
 
 ### Previous Roles
