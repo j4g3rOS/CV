@@ -13,6 +13,7 @@ My focus is on enhancing system efficiency and reliability, ensuring that all so
 [![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apple.com/macos)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://linux.org/)
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
+[![CV](https://img.shields.io/badge/CV-View-blue?style=for-the-badge&logo=github)](https://github.com/j4g3rOS/CV/edit/main/README.md#:~:text=Curriculum_Vitae.docx-,Curriculum_Vitae,-.pdf)
 
 
 </div>
