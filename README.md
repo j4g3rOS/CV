@@ -33,6 +33,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **Programming languages:** Assembler, Turbo Pascal, C++, Amos
 - **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building and tesing networking equipment
 - **Cybersecutity:** Familiarity with Pentesting methods using well known debian based platforms
+- **Cybersecutity accreditations:** Enabled successful ISO 27001 certification through cross-functional teamwork, 
 - **Project Management:** MOSCOW Framework, Monday, Microst Project, Trello, Jirra
 - **Migrations:** MDMs, Windows
 
