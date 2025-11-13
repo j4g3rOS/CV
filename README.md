@@ -24,11 +24,11 @@ My focus is on enhancing system efficiency and reliability, ensuring that all so
 - **Systems:** Windows, macOS, Linux, iOS, Android 
 - **Systems:** Window Server 2008 -> 2024, Mac OS Server, Ubuntu Server
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4, NIST
-- **Scipting:** Bash , ZSH, Powershell
+- **Scipting:** Bash, ZSH, Powershell
 - **Documentation:** Technical Documetation, Process Documentation, Development of Standarization Methods for Enterprise
 - **Networking:** LAN, WAN, Firewalls, Routers, Millimiter Wave Links, MicroWave Links
 - **Ticketing Systems:** Service Now and others
-- **CAD systems:** Basic knowledge and hands on Spice, MCAD
+- **CAD systems:** Basic knowledge and hands on PSpice, MegaCAD
 - **IT Procurement / Vendor relations:** Been involved in many projects
 - **Programming languages:** Assembler, Turbo Pascal, C++, Amos
 - **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building and tesing networking equipment
