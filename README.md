@@ -3,7 +3,7 @@ Krzysztof Marek Scibiorek
 
 ## IT Professional
 
-With a focus on operational optimisation, I enable organisations to leverage technology by providing strategic guidance and support for the advancement of IT infrastructure. My approach emphasises enhancing system efficiency and reliability, ensuring all technology solutions are closely aligned with overarching business objectives and driving the implementation of innovative alternativenes.
+With a focus on operational optimisation, I enable organisations to leverage technology by providing strategic guidance and support for the advancement of IT infrastructure. My approach emphasises enhancing system efficiency and reliability, ensuring all technology solutions are closely aligned with overarching business objectives and driving the implementation of innovative alternatives.
 
 
 <div align="center">
