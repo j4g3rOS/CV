@@ -33,7 +33,7 @@ My focus is on enhancing system efficiency and reliability, ensuring that all so
 - **Programming languages:** Assembler, Turbo Pascal, C++, Amos
 - **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building and tesing networking equipment
 - **Cybersecutity:** Familiarity with Pentesting methods using well known debian based platforms
-- **Project Management:** MOSCOW Framework
+- **Project Management:** MOSCOW Framework, Monday, Microst Project, Trello, Jirra
 
 
 ## 💼 Professional Experience
