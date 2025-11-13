@@ -28,7 +28,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **Documentation:** Technical Documetation, Process Documentation, Development of Standarization Methods for Enterprise
 - **Networking:** LAN, WAN, Firewalls, Routers, Millimiter Wave Links, MicroWave Links
 - **Ticketing Systems:** Service Now and others
-- **CAD systems:** Breated and simulated analog and mixed-signal circuits using PSpice, MegacAD deisgn hands on
+- **CAD systems:** Breated and simulated analog and mixed-signal circuits using PSpice, Developed 2D design models for manufacturing and engineering projects with MegaCAD
 - **IT Procurement / Vendor relations:** Managed vendor selection and contract negotiation for IT infrastructure deployments
 - **Programming languages:** Assembler, Turbo Pascal, C++, Amos
 - **Hardware related skills:** Soldering, SMD worstations (Black infrared), Building and tesing networking equipment
