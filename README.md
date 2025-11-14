@@ -62,7 +62,7 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 - Implemented Cybersecurity hardening initiatives across Azure policies for endpoints
 - Provided support for the company’s mission objectives and cross-functional teams throughout all stages of organizational growth
 - Supported AWS infrastructure and services
-
+  
 ### Previous Roles
 - Senior IT Support Analyst at Oxford University Hospitals
 - Senior IT Officer at University of Oxford
@@ -73,12 +73,12 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 - Standarisation of hardware / software solutions for Enterprise 
 - Reorganization of Service Desk and creation of the methodologies, policies, sop's in enviroments with lack of existing technical documentation 
-- MDM migrations
-- Windows migrations across multiple organizations
-- Packaging applications and solutions for enterprise 
+- MDM migrations for Enterprise
+- Windows migrations across for Enterprise
+- Packaging applications and solutions for Enterprise 
 - Implementation of hardened security policies and methodologies for endpoints
 - Standardized deployment of methodologies for various platforms
-- Development of Standard Operational Procedures for enterprise 
+- Development of Standard Operational Procedures for Enterprise 
 - Led procurement initiatives and vendor relationship / management of hardware / software 
 
 ## 🌱 Current Focus
