@@ -18,10 +18,10 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 
 ## 🔧 Technical Skills
 
-- **Cloud Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab, Jira, Confluence
+- **SAAS Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab, Jira, Confluence
 - **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policies, Apps Packaging
-- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Sophos Cloud
-- **Systems:** Windows, macOS, Linux, iOS, Android 
+- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Sophos Cloud, Kroll
+- **Systems:** Windows, macOS, Linux, iOS, Android
 - **Systems:** Window Server 2008 -> 2024, Mac OS Server, Ubuntu Server
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4, NIST
 - **Scipting:** Bash, ZSH, Powershell
@@ -36,7 +36,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **Cybersecutity accreditations:** Enabled successful ISO 27001 certification through cross-functional teamwork, 
 - **Project Management:** Streamlined MOSCOW Framework, Monday, Microst Project, Trello, Jirra
 - **Migrations:** Experience migrating devices with Microsoft Intune, Workspace One, Legacy Systems
-
+- **Backup Technologies:** Druva, Veeam Backup & Replication
 
 ## 💼 Professional Experience
 
