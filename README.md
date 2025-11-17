@@ -18,7 +18,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 
 ## 🔧 Technical Skills
 
-- **SAAS Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab, Jira, Confluence
+- **SAAS Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab, Jirra, Confluence, Redmine etc.
 - **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policies, Apps Packaging
 - **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Sophos Cloud, Kroll
 - **Systems:** Windows, macOS, Linux, iOS, Android
