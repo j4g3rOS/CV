@@ -38,6 +38,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **Project Management:** Streamlined MOSCOW Framework, Monday, Microst Project, Trello, Jirra
 - **Migrations:** Experience migrating devices with Microsoft Intune, Workspace One, Legacy Systems
 - **Backup Technologies:** Druva, Veeam Backup & Replication
+- **System Architectures:** x88, RISC, CISC, ARM
 
 ## 💼 Professional Experience
 
