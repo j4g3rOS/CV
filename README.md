@@ -39,6 +39,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **Migrations:** Experience migrating devices with Microsoft Intune, Workspace One, Legacy Systems
 - **Backup Technologies:** Druva, Veeam Backup & Replication
 - **System Architectures:** x86, RISC, CISC, ARM
+- **AV Solutions Implementation:** Micorosoft Surface Hubs, Zoom Digital Signage, Digital Signage solutions for Enterprise
 
 ## 💼 Professional Experience
 
