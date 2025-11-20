@@ -21,7 +21,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **SAAS Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab, Jirra, Confluence, Redmine etc.
 - **SSO implemnetations:** Implemented SSO for enterprise applications using Microsoft Entra ID
 - **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policies, Apps Packaging
-- **Software Deployment Stanadarization:** Deploymnet of standadized applications amd methods for Enterprise
+- **Software Deployment Stanadarization:** Deployment of standards amd methods for Enterprise
 - **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Sophos Cloud, Kroll
 - **Systems:** Windows, macOS, Linux, iOS, Android
 - **Systems:** Window Server 2008 -> 2024, Mac OS Server, Ubuntu Server
