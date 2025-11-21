@@ -22,7 +22,8 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - **SSO implemnetations:** Implemented SSO for enterprise applications using Microsoft Entra ID
 - **Mobile Device Management:** MS Intune, JAMF, Workspace One, Group Policies, Apps Packaging
 - **Software Deployment Stanadarization:** Deployment of standards and methods for Enterprise
-- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Sophos Cloud, Kroll
+- **Endpoint Virtualisaton Methods:** WSL2, HyperV, VMware ESXi/Workstation, VirtualBox, QEMU, Parrarels etc.
+- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Sophos Cloud, Kroll etc.
 - **Systems:** Windows, macOS, Linux, iOS, Android
 - **Systems:** Window Server 2008 -> 2024, Mac OS Server, Ubuntu Server
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4, NIST
@@ -89,9 +90,11 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 I'm currently expanding my knowledge in:
 
+- Proxmox implementations for Enterprise 
+- Docker containers applications for Enterprise / Review
 - Zero touch methodologies for MDMs
-- Automation using scrpting techniques, terraform
-- LLM models for enterprise
+- Automation using scrpting techniques, Terraform ?
+- LLM models for Enterprise
 - Zero Trust security implementations
 - DevOps practices for IT infrastructure
 
