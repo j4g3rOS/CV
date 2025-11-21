@@ -84,7 +84,8 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 - Implementation of hardened security policies and methodologies for endpoints
 - Standardized deployment of methodologies for various platforms
 - Development of Standard Operational Procedures for Enterprise 
-- Led procurement initiatives and vendor relationship / management of hardware / software 
+- Led procurement initiatives and vendor relationship / management of hardware / software
+- Oversaw a major refurbishment of college premises, including the implementation of modern IT infrastructure and systems
 
 ## 🌱 Current Focus
 
