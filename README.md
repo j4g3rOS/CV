@@ -90,8 +90,7 @@ Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 
 I'm currently expanding my knowledge in:
 
-- Proxmox implementations for Enterprise 
-- Docker containers applications for Enterprise / Review
+- Proxmox overview
 - Zero touch methodologies for MDMs
 - Automation using scrpting techniques, Terraform ?
 - LLM models for Enterprise
