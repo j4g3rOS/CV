@@ -45,7 +45,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 
 ## 💼 Professional Experience
 
-### IT Consultant (Contract)
+### IT Professional (Contract)
 Oxford Nanopore Technologies - Oxofrd | 2025/04 - 2025/12
 - MDM - Intune, Jamf, Workspace One
 - 2nd/3rd line Support
