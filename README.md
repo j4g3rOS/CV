@@ -20,7 +20,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 
 - **SAAS Technologies:** Azure / Entra, Microsoft 365, Google Cloud, AWS, Github, Gitlab, Jirra, Confluence, Redmine etc.
 - **SSO implemnetations:** Implemented SSO for enterprise applications using Microsoft Entra ID
-- **Mobile Device Management:** SCCMS,Apple MDM, MS Intune, JAMF Pro,VMWare Workspace One, Deployment of Group Policies, Security Baselines, Build Standards
+- **Mobile Device Management:** SCCM,Apple MDM, MS Intune, JAMF Pro,VMWare Workspace One, Deployment of Group Policies, Security Baselines, Build Standards
 - **Software Deployment Stanadarization:** Deployment of applications, standards and methods for Enterprise using MDMs
 - **Endpoint Virtualisaton Methods:** WSL2, HyperV, VMware ESXi/Workstation, VirtualBox, QEMU, Parrarels etc.
 - **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Rapid7, Sophos, Kroll etc.
