@@ -52,8 +52,8 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 
 ### IT Support Engineer (Contract)
 **Oxford Nanopore Technologies - Oxford** | 2025/04 - 2025/12
-- MDM - Intune, Jamf, Workspace One
-- 2nd/3rd line Support
+- Intune, Jamf, Workspace One, Okta, Sailpoint
+- 2nd/3rd line Support BAU utilising Service Now
 - Intune migration
 - Apps packaging, policies deployment, autopilot, change management
 - PowerShell Scripting, Microsoft Graph PowerShell CLI
