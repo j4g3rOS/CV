@@ -70,7 +70,7 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 - Assessment of Intune Autopilot deployment for Windows, iOS, MacOS
 - 2nd line support
 
-### IT Engineer (2nd and 3rd line)
+### IT Support Engineer (2nd and 3rd line)
 **Astroscale Holdings – Harwell, Didcot** | 2022/01 - 2024/11
 - Managed Intune/Entra ecosystem including Conditional Access Policies and security solutions
 - Implemented standardization for workstations and led procurement and deployment process
