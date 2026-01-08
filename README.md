@@ -1,4 +1,4 @@
-Krzysztof Marek Scibiorek
+[Krzysztof Marek Scibiorek
 
 
 ## IT Professional
@@ -116,8 +116,6 @@ I'm currently expanding my knowledge in:
 [![Email](https://img.shields.io/badge/Email-krzysztof.scibiorek@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:krzysztof.scibiorek@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+447440263511-green?style=for-the-badge&logo=phone)](tel:+447440263511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-scibiorek-98743775/)
-[![Curriculum Vitae](https://img.shields.io/badge/CV-DOCX-blue?style=for-the-badge&logo=word&logoColor=white)](https://github.com/j4g3rOS/CV/raw/main/Curriculum-Vitae.docx)
-[![Curriculum Vitae](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/j4g3rOS/CV/raw/main/Curriculum_Vitae.pdf)
 
 </div>
 
@@ -126,3 +124,4 @@ I'm currently expanding my knowledge in:
   *Located in Oxford, Oxfordshire, OX4*<br>
   *Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.*
 </p>
+](https://github.com/j4g3rOS/CV/blob/main/Curriculum-Vitae.pdf)
