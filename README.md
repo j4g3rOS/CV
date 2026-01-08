@@ -16,36 +16,6 @@ With a focus on operational optimisation, I enable organisations to leverage tec
 [![Okta](https://img.shields.io/badge/-Okta-0085FF?style=flat-square&logo=okta&logoColor=white)](https://okta.com/)
 
 [![Curriculum Vitae](https://img.shields.io/badge/CV-DOCX-blue?style=flat-square&logo=word&logoColor=white)](https://github.com/j4g3rOS/CV/raw/main/Curriculum-Vitae.docx)
-[![Curriculum Vitae](https://img.shields.io/badge/CV-PDF-red?style=flat-square&logo=pdf&logoColor=white)](https://github.com/j4g3rOS/CV/blob/main/Curriculum_Vitae.pdf)
-
-</div>
-
-## 🔧 Technical Skills
-
-- **SAAS Technologies:** Azure / Entra, Microsoft 365, Okta, Google Cloud, AWS, Github, Gitlab, Jira, Confluence, Redmine etc.
-- **SSO implementations:** Implemented SSO for enterprise applications using Microsoft Entra ID
-- **Mobile Device Management:** SCCM, Apple MDM, MS Intune, JAMF Pro, VMware Workspace One, Deployment of Group Policies, Security Baselines, Build Standards
-- **Software Deployment Standardization:** Deployment of applications, standards and methods for Enterprise using MDMs
-- **Endpoint Virtualisation Methods:** WSL2, HyperV, VMware ESXi/Workstation, VirtualBox, QEMU, Parallels etc.
--```markdown
-Krzysztof Marek Scibiorek
-
-
-## IT Professional
-
-With a focus on operational optimisation, I enable organisations to leverage technology by providing strategic guidance and support for the advancement of IT infrastructure. My approach emphasises enhancing system efficiency and reliability, ensuring all technology solutions are closely aligned with overarching business objectives and driving the implementation of innovative alternatives.
-
-<div align="center">
-  
-[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://microsoft.com/windows)
-[![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)](https://microsoft.com/windows-server)
-[![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://apple.com/macos)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://linux.org/)
-[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
-[![Okta](https://img.shields.io/badge/-Okta-0085FF?style=flat-square&logo=okta&logoColor=white)](https://okta.com/)
-
-[![Curriculum Vitae](https://img.shields.io/badge/CV-DOCX-blue?style=flat-square&logo=word&logoColor=white)](https://github.com/j4g3rOS/CV/raw/main/Curriculum-Vitae.docx)
 [![Curriculum Vitae](https://img.shields.io/badge/CV-PDF-red?style=flat-square&logo=pdf&logoColor=white)](https://github.com/j4g3rOS/CV/blob/main/Curriculum-Vitae.pdf)
 
 </div>
@@ -146,6 +116,8 @@ I'm currently expanding my knowledge in:
 [![Email](https://img.shields.io/badge/Email-krzysztof.scibiorek@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:krzysztof.scibiorek@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+447440263511-green?style=for-the-badge&logo=phone)](tel:+447440263511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-scibiorek-98743775/)
+[![Curriculum Vitae](https://img.shields.io/badge/CV-DOCX-blue?style=for-the-badge&logo=word&logoColor=white)](https://github.com/j4g3rOS/CV/raw/main/Curriculum-Vitae.docx)
+[![Curriculum Vitae](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/j4g3rOS/CV/blob/main/Curriculum-Vitae.pdf)
 
 </div>
 
