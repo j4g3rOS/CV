@@ -1,4 +1,4 @@
-rzysztof Marek Scibiorek
+Krzysztof Marek Scibiorek
 
 
 ## IT Professional
