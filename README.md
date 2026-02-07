@@ -127,7 +127,7 @@ I'm currently expanding my knowledge in:
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-krzysztof.scibiorek@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kris@kenziservices.co.uk)
+[![Email](https://img.shields.io/badge/Email-kris@kenziservices.co.ukred?style=for-the-badge&logo=gmail)](mailto:kris@kenziservices.co.uk)
 [![Phone](https://img.shields.io/badge/Phone-+447440263511-green?style=for-the-badge&logo=phone)](tel:+447440263511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-scibiorek-98743775/)
 [![CV Word Doc Download](https://img.shields.io/badge/CV-Word%20Doc%20Download-blue?style=for-the-badge&logo=word&logoColor=white)](https://github.com/j4g3rOS/CV/raw/main/Curriculum-Vitae.docx)
