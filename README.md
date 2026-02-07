@@ -1,9 +1,18 @@
 Krzysztof Marek Scibiorek
 
-
 ## IT Professional
 
 With a focus on operational optimisation, I enable organisations to leverage technology by providing strategic guidance and support for the advancement of IT infrastructure. My approach emphasises enhancing system efficiency and reliability, ensuring all technology solutions are closely aligned with overarching business objectives and driving the implementation of innovative alternatives.
+
+Experienced Engineer with a strong background in endpoint management and infrastructure support. Skilled using various MDMs especially Microsoft Intune , Autopilot, Entra ID, Conditional Access, and Microsoft 365 administration. Expertise in managing the full endpoint lifecycle from provisioning and compliance to security and ongoing support.
+
+Proven experience in creating and deploying large-scale applications via Intune, building Autopilot profiles for fast device provisioning, and optimising existing profiles for improved rollout speed. Skilled in packaging Win32 apps, creating dynamic groups, and implementing security measures such as MFA and Conditional Access.
+
+Additional experience includes virtualisation (VMware, Hyper-V, AWS, Azure etc.) , backup solutions, networking, security. Passionate about simplifying processes, improving stability, and strengthening security across enterprise environments.
+
+Sysadmin of various systems, led several legacy to MDM migrations. 
+
+Strong skills in aspects of organisation / reorganisation service help desks based on experience contracting for several public and private sector small and large organisations.
 
 <div align="center">
   
@@ -118,7 +127,7 @@ I'm currently expanding my knowledge in:
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-krzysztof.scibiorek@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:krzysztof.scibiorek@gmail.com)
+[![Email](https://img.shields.io/badge/Email-krzysztof.scibiorek@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kris@kenziservices.co.uk)
 [![Phone](https://img.shields.io/badge/Phone-+447440263511-green?style=for-the-badge&logo=phone)](tel:+447440263511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-scibiorek-98743775/)
 [![CV Word Doc Download](https://img.shields.io/badge/CV-Word%20Doc%20Download-blue?style=for-the-badge&logo=word&logoColor=white)](https://github.com/j4g3rOS/CV/raw/main/Curriculum-Vitae.docx)
