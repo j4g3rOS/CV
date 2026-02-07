@@ -66,10 +66,9 @@ Strong skills in aspects of organisation / reorganisation service help desks bas
 
 ### IT Support Engineer (Contract)
 **Oxford Nanopore Technologies - Oxford** | 2025/04 - 2025/12
-- Intune, Jamf, Workspace One, Okta, Sailpoint
+- Management of Intune, Jamf, Workspace One, Okta, Sailpoint
 - 2nd/3rd line Support BAU utilising Service Now
-- Intune migration
-- Apps packaging, policies deployment, autopilot, change management
+- Intune migration which included Apps packaging, policies deployment, autopilot, change management
 - PowerShell Scripting, Microsoft Graph PowerShell CLI
 - Technical Documentation
 - Process Documentation
