@@ -66,7 +66,7 @@ Strong skills in aspects of organisation / reorganisation service help desks bas
 
 ### IT Support Engineer (Contract)
 **Oxford Nanopore Technologies - Oxford** | 2025/04 - 2025/12
-- Management of Intune, Jamf, Workspace One, Okta, Sailpoint
+- Management of Intune, Jamf, Workspace One, Okta, Sailpoint, Crawdstrike Falcon
 - 2nd/3rd line Support BAU utilising Service Now
 - Intune migration which included Apps packaging, policies deployment, autopilot, change management
 - PowerShell Scripting, Microsoft Graph PowerShell CLI
@@ -109,12 +109,14 @@ Strong skills in aspects of organisation / reorganisation service help desks bas
 
 I'm currently expanding my knowledge in:
 
-- Proxmox overview
+- Proxmox 
 - Zero touch methodologies for MDMs
-- Automation using scripting techniques, Terraform
 - LLM models for Enterprise
+- LLM Agents
+- SIEM Implementations
 - Zero Trust security implementations
-- DevOps practices for IT infrastructure
+  
+
 
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
