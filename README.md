@@ -43,9 +43,9 @@ With a focus on operational optimisation, I help organisations get more value fr
 - **Mobile Device Management:** SCCM, Apple MDM, MS Intune, JAMF Pro, VMware Workspace One, Deployment of Group Policies, Security Baselines, Build Standards
 - **Software Deployment Standardization:** Deployment of applications, standards and methods for Enterprise using MDMs
 - **Endpoint Virtualisation Methods:** WSL2, HyperV, VMware ESXi/Workstation, VirtualBox, QEMU, Parallels etc.
-- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Rapid7, Sophos, Kroll etc.
+- **Security:** Microsoft Security Center, Conditional Access, Endpoint Security, Okta, Crowdstrike, Rapid7, Sophos, Kroll, Mimecast, Cisco Duo etc.
 - **Systems:** Windows, macOS, Linux, iOS, Android
-- **Systems:** Windows Server 2008 -> 2024, Mac OS Server, Ubuntu Server
+- **Systems:** Windows Server 2008 -> 2025, Mac OS Server, Ubuntu Server
 - **Frameworks:** SAAS/IAAS, Cybersecurity Frameworks, ITILv4, NIST
 - **Scripting:** Bash, ZSH, PowerShell
 - **Documentation:** Technical Documentation, Process Documentation, Development of Standardization Methods for Enterprise
@@ -61,8 +61,8 @@ With a focus on operational optimisation, I help organisations get more value fr
 - **Migrations:** Experience migrating devices with Microsoft Intune, Workspace One, Legacy Systems
 - **Backup Technologies:** Druva, Veeam Backup & Replication
 - **System Architectures:** x86, RISC, CISC, ARM
-- **AV Solutions Implementation:** Microsoft Surface Hubs, Zoom Digital Signage, Digital Signage solutions for Enterprise
-- **Telephony, VoIP:** Chorus, Zoom etc.
+- **AV Solutions Implementation:** Microsoft Surface Hubs, Zoom Digital Signage, Digital Signage solutions for Enterprise, Logitech
+- **Telephony, VoIP:** Chorus, Zoom, Legacy systems etc.
 
 ## 💼 Professional Experience
 
