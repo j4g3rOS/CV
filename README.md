@@ -2,17 +2,19 @@ Krzysztof Marek Scibiorek
 
 ## IT Professional
 
-With a focus on operational optimisation, I enable organisations to leverage technology by providing strategic guidance and support for the advancement of IT infrastructure. My approach emphasises enhancing system efficiency and reliability, ensuring all technology solutions are closely aligned with overarching business objectives and driving the implementation of innovative alternatives.
+With a focus on operational optimisation, I help organisations get more value from their technology by providing strategic guidance and hands‑on support to modernise IT infrastructure. I prioritise system efficiency and reliability, ensuring every technology solution is tightly aligned with business objectives while introducing innovative, future‑ready alternatives. 
+  
+ I am an experienced Engineer with a strong background in endpoint management and infrastructure support. I work extensively with multiple MDM platforms, with expertise in Microsoft Intune, Autopilot, Entra ID, Conditional Access, and Microsoft 365 administration. I manage the full endpoint lifecycle, from provisioning and compliance through to security and ongoing user support including hardware procurement and standardisations for small, medium and large businesses, 
 
-Experienced Engineer with a strong background in endpoint management and infrastructure support. Skilled using various MDMs especially Microsoft Intune , Autopilot, Entra ID, Conditional Access, and Microsoft 365 administration. Expertise in managing the full endpoint lifecycle from provisioning and compliance to security and ongoing support.
+ I have proven experience designing and deploying large‑scale applications via Intune, creating Autopilot profiles for rapid device provisioning, and tuning existing profiles for faster and more stable rollouts. I am skilled in packaging Win32 applications, creating dynamic groups, and implementing robust security controls, including MFA and Conditional Access policies etc., 
 
-Proven experience in creating and deploying large-scale applications via Intune, building Autopilot profiles for fast device provisioning, and optimising existing profiles for improved rollout speed. Skilled in packaging Win32 apps, creating dynamic groups, and implementing security measures such as MFA and Conditional Access.
+  Working across a variety of sectors and industries has developed my methodical reasoning and implementation skills, including the creation of standard operating procedures and workflows that align with user needs and board requirements aligned with business projectiles, creating SOPs and best practices to follow. 
 
-Additional experience includes virtualisation (VMware, Hyper-V, AWS, Azure etc.) , backup solutions, networking, security. Passionate about simplifying processes, improving stability, and strengthening security across enterprise environments.
+  My cybersecurity philosophy is rooted in operationalising security across the entire technology stack. I believe effective security demands hands-on experience, spanning initial user support, infrastructure architecture, and policy framework Implementation. I have proven experience in implementing policies and security hardening policies within small, medium and large business. 
 
-Sysadmin of various systems, led several legacy to MDM migrations. 
+ Current focus are LLMs and SLLMs gaining my experience on aspects self hosted and cloud based solutions taking into consideration latest security frameworks and solutions. 
 
-Strong skills in aspects of organisation / reorganisation service help desks based on experience contracting for several public and private sector small and large organisations.
+ Experienced in aspects of creation and building service desk from scratch creating policies , best practices frameworks without handover, reverse engineering  and creation of the best practices to follow.
 
 <div align="center">
   
